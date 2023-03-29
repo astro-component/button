@@ -1,0 +1,30 @@
+{
+  "name": "@astro-component/button",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "homepage": "https://github.com/astro-component/button#readme",
+  "bugs": {
+    "url": "https://github.com/astro-component/button/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astro-component/button.git"
+  },
+  "keywords": [
+    "astro",
+    "astro-component",
+    "button"
+  ],
+  "author": "kalanakt (e19198@eng.pdn.ac.lk)",
+  "license": "MIT",
+  "dependencies": {
+    "astro": "^2.1.8"
+  }
+}
