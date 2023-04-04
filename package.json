@@ -25,6 +25,7 @@
   "author": "kalanakt (e19198@eng.pdn.ac.lk)",
   "license": "MIT",
   "dependencies": {
+    "@astro-component/button": "0.0.1",
     "astro": "^2.1.8"
   }
 }

@@ -1,9 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@astro-component/button': 0.0.1
   astro: ^2.1.8
 
 dependencies:
+  '@astro-component/button': 0.0.1
   astro: 2.1.8
 
 packages:
@@ -14,6 +16,21 @@ packages:
     dependencies:
       '@jridgewell/gen-mapping': 0.1.1
       '@jridgewell/trace-mapping': 0.3.17
+    dev: false
+
+  /@astro-component/button/0.0.1:
+    resolution: {integrity: sha512-pEzxL6sHUQN+nRvYNwf3iXh08o46JnbVALitnEXnbDO0/rKN7U67o8FfuoBt8U+lICiTOJur6ktcsnDHT/yGMA==}
+    dependencies:
+      astro: 2.1.8
+    transitivePeerDependencies:
+      - '@types/node'
+      - less
+      - sass
+      - sharp
+      - stylus
+      - sugarss
+      - supports-color
+      - terser
     dev: false
 
   /@astrojs/compiler/0.31.4:
